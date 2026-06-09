@@ -1,4 +1,4 @@
-# Low-Rank Image Analysis using Singular Value Decomposition (SVD)
+# Low-Rank Image Analysis using Singular Value Decomposition (SVD) 
 
 This project investigates image compression using Singular Value Decomposition (SVD). The study compares global and patch-wise low-rank approximations and examines how compression ratio, reconstruction error, and energy retention change as singular values are discarded.
 
